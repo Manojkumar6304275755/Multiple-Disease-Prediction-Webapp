@@ -28,11 +28,7 @@ Please follow the below steps to run this project.
 3. [Parkinsons disease dataset](https://www.kaggle.com/code/arunkumarpyramid/detection-parkinson-s-disease/data)
 4. [Liver disease dataset](https://www.kaggle.com/code/harisyammnv/liver-disease-prediction/data)
 5. [Hepatities disease dataset](https://kaggle.com/dataset2)
-6. [Jaundice disease dataset](https://kaggle.com/dataset2)
-   
-
-### Trailer
-https://github.com/Manojkumar6304275755/rcoe22-sem5-group2/assets/83022701/b63635ef-3195-4282-9e90-0b05c659fbcc
+6. [Jaundice disease dataset](https://kaggle.com/dataset2
 
 <br></br>
 
